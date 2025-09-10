@@ -38,6 +38,8 @@ July 2024 - August 2025
 
 - Architected, designed, and implemented a full backup system for Kontent.ai, capturing up to one week of version history and running nightly via GCP infrastructure-as-code — ensuring data resilience in the event of system failure or catastrophic loss.
 
+- Represented the company during university visits and video calls, providing guidance and support to 1st- and 2nd-year students on their projects affiliated with the company.
+
 ### Retail Sales Assistant - Makers Store
 
 October 2022 - February 2024
