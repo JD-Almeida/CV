@@ -40,18 +40,6 @@ July 2024 - August 2025
 
 - Represented the company during university visits and video calls, providing guidance and support to 1st and 2nd-year students on their projects affiliated with the company.
 
-### Retail Sales Assistant - Makers Store
-
-October 2022 - February 2024
-
-- Partnered with independent sellers, gaining insight into local culture and strengthening customer relationships to boost satisfaction and repeat visits.
-
-- Led colleagues during peak seasonal rushes, ensuring smooth operations and consistently maintaining high service standards.
-
-- Complied with strict alcohol regulations, including Challenge 21 and responsible serving guidelines.
-
-- Prepared and served food products while following allergen regulations to guarantee customer safety.
-
 ### International University Representative - La Trobe University (Australia)
 
 February 2024 - April 2024
@@ -63,6 +51,18 @@ February 2024 - April 2024
 - Collaborated with lecturers and students to enhance customer-facing development projects.
 
 - Led strategic discussions with senior faculty to strengthen institutional partnerships and lay the groundwork for future collaborations.
+
+### Retail Sales Assistant - Makers Store
+
+October 2022 - February 2024
+
+- Partnered with independent sellers, gaining insight into local culture and strengthening customer relationships to boost satisfaction and repeat visits.
+
+- Led colleagues during peak seasonal rushes, ensuring smooth operations and consistently maintaining high service standards.
+
+- Complied with strict alcohol regulations, including Challenge 21 and responsible serving guidelines.
+
+- Prepared and served food products while following allergen regulations to guarantee customer safety.
 
 ### Waiter - Toscana
 
