@@ -38,6 +38,8 @@ July 2024 - August 2025
 
 - Architected, designed, and implemented a full backup system for Kontent.ai, capturing up to one week of version history and running nightly via GCP infrastructure-as-code — ensuring data resilience in the event of system failure or catastrophic loss.
 
+- Championed agile-based development across UK, US and India based teams, allowing for productive work cycles and satisfied business partners.
+
 - Represented the company during university visits and video calls, providing guidance and support to 1st and 2nd-year students on their projects affiliated with the company.
 
 ### International University Representative - La Trobe University (Australia)
