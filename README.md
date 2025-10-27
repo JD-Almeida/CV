@@ -39,15 +39,15 @@ July 2024 - August 2025
 
 - Implemented unit and end-to-end user experience testing with Jest and Playwright, ensuring error-free production releases and higher platform reliability.
 
-- Led a squad of developers to enhance the ParvoMap system, enabling global usage by any stakeholder by refactoring map layer parameters, Google Maps API endpoints, region code restrictions and visual layout options.
+- Led a squad of developers to enhance the ParvoMap system, enabling global usage by any stakeholder by increasing available map layer parameters, refactoring Google Maps API calls, region code restrictions and visual layout options.
 
 - Independently discovered, designed, and delivered a product to propagate changes across all Kontent.ai CMS environments directly from code more efficiently — improving deployment speed by 80%, reducing developer complexity, and preventing production-breaking changes by safeguarding private keys and execution integrity.
 
 - Streamlined the content creation process by consolidating all existing page types into a single, comprehensive editor experience, significantly improving Content Editors’ quality-of-life and efficiency by designing a more user-friendly CMS interface, redistributing permitted variables for each page type and better aligning sensitive fields  
 
-- Architected, designed, and implemented a full backup system for Kontent.ai, capturing up to one week of version history achiteted via infrastructure-as-code — ensuring data resilience in the event of system failure or catastrophic loss via nightly run GitHub Actions pipelines, saving all assets and configurations across all environments to a GCP hosted database.
+- Architected, designed, and implemented a full backup system for Kontent.ai, capturing up to one week of version history achitected via infrastructure-as-code — ensuring data resilience in the event of system failure or catastrophic loss via nightly run GitHub Actions pipelines, saving all assets and configurations across all environments to a GCP hosted database.
 
-- Championed agile-based development across UK, US and India based teams, allowing for productive work cycles and satisfied business partners and recieving excellent feedback from stakeholders, product managers and my line managers directly.
+- Championed agile-based development across UK, US and India based teams, allowing for productive work cycles and satisfied business partners and recieving excellent feedback from stakeholders, product managers and line managers directly.
 
 - Represented the company during university visits and video calls, providing guidance and support to 1st and 2nd-year students on their projects affiliated with the company. This allowed me to give back to my place of study and the opportunity to help inform fellow students on the value of Placement opportunities.
 
@@ -55,13 +55,11 @@ July 2024 - August 2025
 
 February 2024 - April 2024
 
-- Hand-picked out of hundreds of students based on academic prowess and character to represent Sheffield Hallam University in a fully funded exchange program at La Trobe University in Melbourne.
+- Hand-picked out of hundreds of students based on academic prowess and character to represent Sheffield Hallam University in a fully funded exchange program at La Trobe University in Melbourne, first of its kind in the history of the university.
 
-- Designed and implemented an archaeological index filtering system containing 20,000+ historic entries, improving accessibility and research efficiency.
+- Built an archaeological index filtering system containing 20,000+ historic entries, improving accessibility and research efficiency by tackling complex filtering of inconsistent documents, consuming large sets of files and writing a quick filtering algorithm.
 
-- Collaborated with lecturers and students to enhance customer-facing development projects by breaking down existing teaching and development methodologies.
-
-- Led strategic discussions with senior faculty to strengthen institutional partnerships and lay the groundwork for future collaborations.
+- Led strategic discussions with senior faculty to strengthen institutional partnerships and lay the groundwork for future collaborations, which has led to yearly partnerships between the universities.
 
 ### Retail Sales Assistant - Makers Store
 
